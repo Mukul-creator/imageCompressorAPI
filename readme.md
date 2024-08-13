@@ -2,6 +2,9 @@
 
 This API provides functionality to compress images and add watermarks to them. Additionally, it offers a combined operation that both watermarks and compresses an image.
 
+## Base URL
+https://imagecompress.testbuddy.live
+
 ## Endpoints
 
 ### 1. `GET /hello`
